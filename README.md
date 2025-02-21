@@ -41,7 +41,7 @@ Assurez-vous d'avoir **Node.js** installé sur votre machine.
 
 1. Clonez le repository :
    ```sh
-   git clone https://github.com/iSweat-exe/Streamer-Webhook-NodeJS-.git
+   git clone https://github.com/iSweat-exe/Streamer-Webhook-NodeJS.git
    cd Streamer-Webhook-NodeJS
    ```
 
